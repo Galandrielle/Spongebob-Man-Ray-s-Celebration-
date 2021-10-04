@@ -1,0 +1,12 @@
+The theme of the game is that the game is filled with memory leaks! You must beat the game before the games memory overflows and it crashes! (The bar up left)
+
+Your score is the last screenshot you took, to get a screenshot you must have a good combo (the white circle will appear) and press K
+
+To achieve higher score you must be able to follow the combos smoothly.. but that will only get you so far! To truly get the highest score you must YOURSELF 
+dive into the source code, find the obvious (and not so obvious) memory leaks, fix them, recompile the game yourself.. and achieve the highest score!!
+
+Controls:
+
+Movement : Arrow keys
+
+Screenshot: K when the white circle is on (screenshot will be at /build folder named score.png)
